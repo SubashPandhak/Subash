@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+    color: grey;
+}
+.title {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+textarea {
+    resize: none;
+}
